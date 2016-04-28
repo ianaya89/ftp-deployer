@@ -7,7 +7,7 @@ node.js terminal app to deploy web sites through FTP
 3. Run: `$ npm i`
 
 ### Set Up
-1. Create an `.env` file inside the project root directory
+1. Create a file called `.env` inside the project root directory (or rename de `example.env` file).
 2. Set your configuration settings following this format:
   ```
   USERNAME=your_user_name
