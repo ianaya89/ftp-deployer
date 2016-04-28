@@ -18,7 +18,7 @@ node.js terminal app to deploy web sites through FTP
   REMOTE_ROOT='remote_directory'
   ```
 
-  *Note that all those values can also be set as environment variables when you execute the app.*
+  *Note that all those values can also be set as environment variables when you run the node app.*
   
 ### Run It
 1. Open your terminal and locate the project root folder.
