@@ -4,7 +4,7 @@ node.js terminal app to deploy web sites through FTP
 ### Install
 1. Clone or download the repo.
 2. Open your terminal and locate the project root folder.
-3. Run: `$ npm i`
+3. Run: `$ npm i`.
 
 ### Set Up
 1. Create a file called `.env` inside the project root directory (or rename de `example.env` file).
@@ -22,4 +22,4 @@ node.js terminal app to deploy web sites through FTP
   
 ### Run It
 1. Open your terminal and locate the project root folder.
-2. Run: `$ npm start`
+2. Run: `$ npm start`.
